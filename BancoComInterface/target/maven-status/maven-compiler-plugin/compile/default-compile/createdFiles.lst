@@ -1,0 +1,6 @@
+com\mycompany\bancocominterface\ContaPoupanca.class
+com\mycompany\bancocominterface\ControlaCredito.class
+com\mycompany\bancocominterface\Conta.class
+com\mycompany\bancocominterface\BancoComInterface.class
+com\mycompany\bancocominterface\ContaEspecial.class
+com\mycompany\bancocominterface\Movimentacao.class
